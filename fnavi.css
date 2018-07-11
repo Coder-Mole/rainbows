@@ -163,12 +163,12 @@ transition: all 0.3s ease-in-out;
 }
 
 ul.menu2 li a.red {background:green;}
-ul.menu2 li a.orange {background:#b8860b;}
-ul.menu2 li a.yellow {background:#b8860b;}
-ul.menu2 li a.green {background:#b8860b;}
-ul.menu2 li a.blue {background:#b8860b;}
-ul.menu2 li a.indigo {background:#b8860b;}
-ul.menu2 li a.violet {background:#b8860b;}
+ul.menu2 li a.orange {background:green;}
+ul.menu2 li a.yellow {background:green;}
+ul.menu2 li a.green {background:green;}
+ul.menu2 li a.blue {background:green;}
+ul.menu2 li a.indigo {background:green;}
+ul.menu2 li a.violet {background:green;}
 
 ul.menu2 li a:hover {background:#aaa; color:#fff; padding:0 15px 0 40px;}
 
