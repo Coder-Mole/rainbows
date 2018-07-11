@@ -165,6 +165,12 @@ ul.thumb li img.hover {
 .gold-text {
 	color: #B8860B;
 }
+.green-text {
+	color: green;
+}
+.brown-text {
+	color: brown;
+}
 #container .content .main-content .centre strong {
 	font-size: 30px;
 }
