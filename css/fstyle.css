@@ -163,7 +163,7 @@ ul.thumb li img.hover {
 	float: right;
 	text-align: left;
 	height: 100%;
-	color: #2f4f4f;
+	color: black; /*was #2f4f4f - Dark Slate Grey*/
 	margin-left: auto;
 	padding: 0px 5px 40px 5px;
 	clear: right;
