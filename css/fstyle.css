@@ -89,6 +89,12 @@ ul.thumb li img.hover {
 	font-size: 40px;
 	letter-spacing: -1px;
 }
+.left_headText1 {
+	font-size: 28px;
+	text-align: left;
+	display: block;
+	padding: 0px 0px 0px 0px;
+}
 .span {
 	color: #B8860B;
 }
